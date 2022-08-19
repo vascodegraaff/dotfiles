@@ -1,0 +1,29 @@
+import java.util.*;
+class Fuel{
+    public static void main(String[] args) {
+        System.out.println(solution(16));
+        
+    }
+
+    public static int solution(int n){
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i = 1; i < 100; i++){
+            map.put(Math.pow(2,i),i);
+        }
+        return helper(n,0,map);
+
+
+    }
+
+    public static int helper(int n, int i, HashMap<Integer,Integer> map){
+        if(n==1) return i;
+
+        if(map.containsKey(n)){
+            System.out.println(map.get(n));
+            return map.get(n);
+        }
+        return i;
+
+
+    }
+}

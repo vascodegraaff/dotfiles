@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/vasco/.config/coc/extensions/coc-java-data/jdt_ws_fa1c203240ba3e0f9d6da3d4a6a5f94a/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+300349314.index
+3842426239.index

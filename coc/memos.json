@@ -1,0 +1,2862 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/.conda/envs/python3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/Users/vasco/.conda/envs/python3",
+        "fileHash": "d9039cb843c85abdaa5d181c77e2d8ef5b0da937a57ca21f899d44f86bb11a3c0a66d15ce36fef99dfd1145e2bb4ea9cd8dd745d70b892fd288a366e95bee09a",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/vasco/.conda/envs/python3",
+        "envName": "python3"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9"
+      },
+      "expiry": 1658320126066
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9"
+      },
+      "expiry": 1658320126066
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9"
+      },
+      "expiry": 1658320448254
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9"
+      },
+      "expiry": 1658320126065
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "19a4366c75e8006d664fabe0a5d203ab69f5d857f383433ef1f6c00107edf92301eaf488ac0bc1efdc762d58cec734418de5c5cf103cc7cff89d6ac8967236de",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "7690c2f09885a06530b8191a9516b349cf3437f2d33b9ea843b585817da80c5ea4cd7009c5feae741232707c2c2747c77e62580939d318fd89817c2279569614",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "6a111b52d48a17f52eb02bc29c3212dbfcc8ced0cb256ddda5e628855f6c2cd59ffb1e656152abe329f68b8af464275cad45c517fcec29d5bbf98ced79680615",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "d487bc9459e8a429c481ea1d0ddb10da0d13a50ceba6ec33ee44efe5a43e72d894b3bd165312b3ca0501602d449b25236d47242eeab1c661a99eeb34f3f44a25",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "type": "Unknown"
+      }
+    ],
+    "/Applications/Xcode.app/Contents/Developer/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "1bb499655e7ce02d1884b5e2aefca5bb2da2857ba6697cea62126f1ef7aa87bf6b26b86b6f4671eda0444a2457a43465410b69696b7c7b2f1b0ee587a0860c86"
+      },
+      "expiry": 1635872222451
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9"
+      },
+      "expiry": 1658320126235
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "19a4366c75e8006d664fabe0a5d203ab69f5d857f383433ef1f6c00107edf92301eaf488ac0bc1efdc762d58cec734418de5c5cf103cc7cff89d6ac8967236de",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "b7afd9cf194eb9549bd2ab38c6ff286341fe3e2e43a93347aae24a1926f9b1711dec6f05982c589fd74d2e467ee2ea73d4de9ccf2f0c3f45a8c2c577914781d5",
+      "type": "Unknown",
+      "displayName": "Python 3.9.12 64-bit"
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.9 64-bit",
+        "hash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9-102212793bec90cce24599331fc84c75"
+      },
+      "expiry": 1658320449241
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9-b217ac62bc07e69063324488ae0f9e29"
+      },
+      "expiry": 1658320449237
+    },
+    "/Applications/Xcode.app/Contents/Developer/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.2 64-bit",
+        "hash": "1bb499655e7ce02d1884b5e2aefca5bb2da2857ba6697cea62126f1ef7aa87bf6b26b86b6f4671eda0444a2457a43465410b69696b7c7b2f1b0ee587a0860c86-6a123f967e3435760be76ef79661a868"
+      },
+      "expiry": 1635872222710
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9-67f655005007a67696ad6923199829e8"
+      },
+      "expiry": 1658320127015
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "6a111b52d48a17f52eb02bc29c3212dbfcc8ced0cb256ddda5e628855f6c2cd59ffb1e656152abe329f68b8af464275cad45c517fcec29d5bbf98ced79680615",
+      "type": "Unknown",
+      "displayName": "Python 3.9.12 64-bit"
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.9-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.9-final"
+          },
+          "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8",
+          "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+          "type": "Unknown",
+          "displayName": "Python 3.8.9 64-bit"
+        }
+      },
+      "expiry": 1658320449295
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1658320449290
+    },
+    "/Applications/Xcode.app/Contents/Developer/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1bb499655e7ce02d1884b5e2aefca5bb2da2857ba6697cea62126f1ef7aa87bf6b26b86b6f4671eda0444a2457a43465410b69696b7c7b2f1b0ee587a0860c86",
+        "info": {
+          "architecture": 3,
+          "path": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.2-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.2-final"
+          },
+          "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8",
+          "fileHash": "1bb499655e7ce02d1884b5e2aefca5bb2da2857ba6697cea62126f1ef7aa87bf6b26b86b6f4671eda0444a2457a43465410b69696b7c7b2f1b0ee587a0860c86",
+          "type": "Unknown",
+          "displayName": "Python 3.8.2 64-bit"
+        }
+      },
+      "expiry": 1635872222731
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "info": {
+          "architecture": 3,
+          "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1658320127022
+    },
+    "ProposeLSBanner": false,
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "6a111b52d48a17f52eb02bc29c3212dbfcc8ced0cb256ddda5e628855f6c2cd59ffb1e656152abe329f68b8af464275cad45c517fcec29d5bbf98ced79680615",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.12 64-bit"
+    },
+    "/Users/vasco/opt/anaconda3/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/opt/anaconda3/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.8-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.8-final"
+        },
+        "sysPrefix": "/Users/vasco/opt/anaconda3",
+        "fileHash": "d9c22b999b60e4065d49ac258ecd5f8e1172a2d887972565cfc4767ffffac3c29b8098c0d664df2937ad0fec170e7973249ae2829dd3ca7cda1b2fe4d7029e87"
+      },
+      "expiry": 1633355171557
+    },
+    "/Users/vasco/opt/anaconda3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/opt/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.8-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.8-final"
+        },
+        "sysPrefix": "/Users/vasco/opt/anaconda3",
+        "fileHash": "09f1f5b16d735a12fd9461446960498cf426fa7eed0e7421762ccd21f5e1d47f1544d843d256cd4095d7561981b3fbca4cb1d489ce856b86a8d1a4d01056f024"
+      },
+      "expiry": 1633355171570
+    },
+    "/Users/vasco/opt/anaconda3/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/opt/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.8-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.8-final"
+        },
+        "sysPrefix": "/Users/vasco/opt/anaconda3",
+        "fileHash": "c4ce88fec36665199bd2a173bd7326158edd472ea20d68470478d1a91108d1e5dc4265832afdc048720e492fe1632980e6e9868452a8f985b7739742046d3a20"
+      },
+      "expiry": 1633355171576
+    },
+    "/Users/vasco/opt/anaconda3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.8 64-bit ('anaconda3': virtualenv)",
+        "hash": "09f1f5b16d735a12fd9461446960498cf426fa7eed0e7421762ccd21f5e1d47f1544d843d256cd4095d7561981b3fbca4cb1d489ce856b86a8d1a4d01056f024-86c716ab184c02b96ac03b5aa433cdcf"
+      },
+      "expiry": 1633355171581
+    },
+    "/Users/vasco/opt/anaconda3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "09f1f5b16d735a12fd9461446960498cf426fa7eed0e7421762ccd21f5e1d47f1544d843d256cd4095d7561981b3fbca4cb1d489ce856b86a8d1a4d01056f024",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/vasco/opt/anaconda3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.8-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.8-final"
+          },
+          "sysPrefix": "/Users/vasco/opt/anaconda3",
+          "fileHash": "09f1f5b16d735a12fd9461446960498cf426fa7eed0e7421762ccd21f5e1d47f1544d843d256cd4095d7561981b3fbca4cb1d489ce856b86a8d1a4d01056f024",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/vasco/opt/anaconda3",
+          "envName": "base",
+          "cachedEntry": true,
+          "displayName": "Python 3.8.8 64-bit ('base': conda)",
+          "__store": true
+        }
+      },
+      "expiry": 1633355171578
+    },
+    "CONDA_ENVIRONMENTS": {},
+    "/Users/vasco/.conda/envs/python3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/.conda/envs/python3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/Users/vasco/.conda/envs/python3",
+        "fileHash": "d9039cb843c85abdaa5d181c77e2d8ef5b0da937a57ca21f899d44f86bb11a3c0a66d15ce36fef99dfd1145e2bb4ea9cd8dd745d70b892fd288a366e95bee09a"
+      },
+      "expiry": 1658320126274
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+      "fileHash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f",
+      "type": "Unknown"
+    },
+    "/Users/vasco/.conda/envs/python3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.7 64-bit ('python3': conda)",
+        "hash": "d9039cb843c85abdaa5d181c77e2d8ef5b0da937a57ca21f899d44f86bb11a3c0a66d15ce36fef99dfd1145e2bb4ea9cd8dd745d70b892fd288a366e95bee09a-35dd8cbeadc2197ceae3be4b54ca8130"
+      },
+      "expiry": 1658320127013
+    },
+    "/Users/vasco/.conda/envs/python3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d9039cb843c85abdaa5d181c77e2d8ef5b0da937a57ca21f899d44f86bb11a3c0a66d15ce36fef99dfd1145e2bb4ea9cd8dd745d70b892fd288a366e95bee09a",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/vasco/.conda/envs/python3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.7-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.7-final"
+          },
+          "sysPrefix": "/Users/vasco/.conda/envs/python3",
+          "fileHash": "d9039cb843c85abdaa5d181c77e2d8ef5b0da937a57ca21f899d44f86bb11a3c0a66d15ce36fef99dfd1145e2bb4ea9cd8dd745d70b892fd288a366e95bee09a",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/vasco/.conda/envs/python3",
+          "envName": "python3",
+          "displayName": "Python 3.9.7 64-bit ('python3': conda)"
+        }
+      },
+      "expiry": 1658320127019
+    },
+    "/opt/homebrew/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "d487bc9459e8a429c481ea1d0ddb10da0d13a50ceba6ec33ee44efe5a43e72d894b3bd165312b3ca0501602d449b25236d47242eeab1c661a99eeb34f3f44a25"
+      },
+      "expiry": 1658320125795
+    },
+    "/opt/homebrew/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "6a111b52d48a17f52eb02bc29c3212dbfcc8ced0cb256ddda5e628855f6c2cd59ffb1e656152abe329f68b8af464275cad45c517fcec29d5bbf98ced79680615"
+      },
+      "expiry": 1658320125798
+    },
+    "/opt/homebrew/opt/python@3.9/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.9/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "b7afd9cf194eb9549bd2ab38c6ff286341fe3e2e43a93347aae24a1926f9b1711dec6f05982c589fd74d2e467ee2ea73d4de9ccf2f0c3f45a8c2c577914781d5"
+      },
+      "expiry": 1657330917970
+    },
+    "/opt/homebrew/opt/python@3.9/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.12 64-bit",
+        "hash": "b7afd9cf194eb9549bd2ab38c6ff286341fe3e2e43a93347aae24a1926f9b1711dec6f05982c589fd74d2e467ee2ea73d4de9ccf2f0c3f45a8c2c577914781d5-89fa962485b22a10c81b9e732e01135a"
+      },
+      "expiry": 1657330918301
+    },
+    "/opt/homebrew/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.12 64-bit",
+        "hash": "6a111b52d48a17f52eb02bc29c3212dbfcc8ced0cb256ddda5e628855f6c2cd59ffb1e656152abe329f68b8af464275cad45c517fcec29d5bbf98ced79680615-55073124fa7eba4574c102b0606c299c"
+      },
+      "expiry": 1658320449236
+    },
+    "/opt/homebrew/opt/python@3.9/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b7afd9cf194eb9549bd2ab38c6ff286341fe3e2e43a93347aae24a1926f9b1711dec6f05982c589fd74d2e467ee2ea73d4de9ccf2f0c3f45a8c2c577914781d5",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/opt/python@3.9/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.12-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.12-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "b7afd9cf194eb9549bd2ab38c6ff286341fe3e2e43a93347aae24a1926f9b1711dec6f05982c589fd74d2e467ee2ea73d4de9ccf2f0c3f45a8c2c577914781d5",
+          "type": "Unknown",
+          "displayName": "Python 3.9.12 64-bit",
+          "__store": true
+        }
+      },
+      "expiry": 1657330918287
+    },
+    "/opt/homebrew/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6a111b52d48a17f52eb02bc29c3212dbfcc8ced0cb256ddda5e628855f6c2cd59ffb1e656152abe329f68b8af464275cad45c517fcec29d5bbf98ced79680615",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.12-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.12-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "6a111b52d48a17f52eb02bc29c3212dbfcc8ced0cb256ddda5e628855f6c2cd59ffb1e656152abe329f68b8af464275cad45c517fcec29d5bbf98ced79680615",
+          "type": "Unknown",
+          "displayName": "Python 3.9.12 64-bit"
+        }
+      },
+      "expiry": 1658320449286
+    },
+    "/Users/vasco/Projects/selenium/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/selenium/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.8-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.8-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/selenium/env",
+        "fileHash": "1b6f281b7d766d854c87b34d134ec3ff1ee8049ff44516a54a414d53eb3befaf52044435b8ae8a8d8306109bfacb0d686ffd2c1f14921692c28b18ba0e731ab8"
+      },
+      "expiry": 1643750396191
+    },
+    "/Users/vasco/Projects/selenium/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/selenium/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.8-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.8-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/selenium/env",
+        "fileHash": "76ea7addc2c2d60f35310d6023f291cb1f3265f78b26cd0f77a2a5e69eed286be48c630532f88b0933de1edc6f843dd1260ee6f3f0506b61d8ad83bae6ff8cb8"
+      },
+      "expiry": 1643750396192
+    },
+    "/Users/vasco/Projects/selenium/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/selenium/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.8-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.8-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/selenium/env",
+        "fileHash": "60a2bd481b918fe91cce9429e81456653a23e817beb9162aa18c74b8057a63a2e207536a0f51f21459d9a5f4fae2decd001da6027a1bfc5c5a028224e25ede7e"
+      },
+      "expiry": 1643750396192
+    },
+    "/Users/vasco/Projects/selenium/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.8 64-bit ('env': venv)",
+        "hash": "60a2bd481b918fe91cce9429e81456653a23e817beb9162aa18c74b8057a63a2e207536a0f51f21459d9a5f4fae2decd001da6027a1bfc5c5a028224e25ede7e-d0956a8453c18178087ccb7762c0e506"
+      },
+      "expiry": 1643750396220
+    },
+    "/Users/vasco/Projects/selenium/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "60a2bd481b918fe91cce9429e81456653a23e817beb9162aa18c74b8057a63a2e207536a0f51f21459d9a5f4fae2decd001da6027a1bfc5c5a028224e25ede7e",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/vasco/Projects/selenium/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.8-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.8-final"
+          },
+          "sysPrefix": "/Users/vasco/Projects/selenium/env",
+          "fileHash": "60a2bd481b918fe91cce9429e81456653a23e817beb9162aa18c74b8057a63a2e207536a0f51f21459d9a5f4fae2decd001da6027a1bfc5c5a028224e25ede7e",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.8 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1643750396231
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "/Users/vasco/Projects/foobar/env/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/Users/vasco/Projects/foobar/env",
+      "fileHash": "15d0723112d4240bb78fab80be334d2b463cada88183fcc6c37d188f1646da883459e1f34fb70938bc52a0850fad725583d1a00b35cf545a56d23735fba61a5c",
+      "envName": "env",
+      "type": "Venv"
+    },
+    "/Users/vasco/Projects/selenium/env/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1b6f281b7d766d854c87b34d134ec3ff1ee8049ff44516a54a414d53eb3befaf52044435b8ae8a8d8306109bfacb0d686ffd2c1f14921692c28b18ba0e731ab8"
+      },
+      "expiry": 1643750396333
+    },
+    "/Users/vasco/Projects/selenium/env/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.8 64-bit ('env': venv)",
+        "hash": "1b6f281b7d766d854c87b34d134ec3ff1ee8049ff44516a54a414d53eb3befaf52044435b8ae8a8d8306109bfacb0d686ffd2c1f14921692c28b18ba0e731ab8-003ee9f24bc7131937f5b25bff34a9ca"
+      },
+      "expiry": 1643750396365
+    },
+    "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/PodcastProject/backend/env",
+        "fileHash": "9b7c95df9105f4928fe88803ebb3227514a86a8084cdeefe7096846112a033b45123f871bbbe150d91fb1fcf68f6d2e2f71566b195f15353cd375d07b9b54fed"
+      },
+      "expiry": 1644446266414
+    },
+    "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/PodcastProject/backend/env",
+        "fileHash": "fb9e54f586e0214a5819c4c73df4b27db5bcff99c287c48bc26a39d32bbe719740b7d329769c2ab5d77b42e6a90c48978766bb864640595a4a937a420ddf510d"
+      },
+      "expiry": 1644446266413
+    },
+    "InterpreterAutoSeletionRule-environment": {
+      "architecture": 3,
+      "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+      "fileHash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f",
+      "type": "VirtualEnv"
+    },
+    "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fb9e54f586e0214a5819c4c73df4b27db5bcff99c287c48bc26a39d32bbe719740b7d329769c2ab5d77b42e6a90c48978766bb864640595a4a937a420ddf510d"
+      },
+      "expiry": 1644446266386
+    },
+    "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.9 64-bit ('env': venv)",
+        "hash": "9b7c95df9105f4928fe88803ebb3227514a86a8084cdeefe7096846112a033b45123f871bbbe150d91fb1fcf68f6d2e2f71566b195f15353cd375d07b9b54fed-0ae952bf44dd629b55bbdbc36aa86ec0"
+      },
+      "expiry": 1644446266454
+    },
+    "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9b7c95df9105f4928fe88803ebb3227514a86a8084cdeefe7096846112a033b45123f871bbbe150d91fb1fcf68f6d2e2f71566b195f15353cd375d07b9b54fed",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.9-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 9,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.9-final"
+          },
+          "sysPrefix": "/Users/vasco/Projects/sono/PodcastProject/backend/env",
+          "fileHash": "9b7c95df9105f4928fe88803ebb3227514a86a8084cdeefe7096846112a033b45123f871bbbe150d91fb1fcf68f6d2e2f71566b195f15353cd375d07b9b54fed",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.8.9 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1644446266487
+    },
+    "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.9 64-bit ('env': venv)",
+        "hash": "fb9e54f586e0214a5819c4c73df4b27db5bcff99c287c48bc26a39d32bbe719740b7d329769c2ab5d77b42e6a90c48978766bb864640595a4a937a420ddf510d-c32df7070c9e110d34db89d027da0145"
+      },
+      "expiry": 1644446266502
+    },
+    "pylint_DisableLinterInstallPrompt": true,
+    "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+        "fileHash": "eaf6a96c48bafd15c3bbc731739764e49c769efc45ddfc71aa77ef3b0d29a08964e7de888a9ba1a3fe8fafbceda40be97ea1e0e9cceeb73f17bae7a38ea71eeb"
+      },
+      "expiry": 1649457715974
+    },
+    "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+        "fileHash": "fcdb58346db27f7faa488b9fc5d2786aba4545f0a885fe7d5d4d967beaf6de49ac367c119912869c29f33248bc23e173eea019ebc0cc12179093b2d47b4d57f3"
+      },
+      "expiry": 1649457715995
+    },
+    "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+        "fileHash": "d154523f4d85c1d43122116cdfc236af359ec69e8ad404832e2b467a97c49d28cde7fc317110b6b05986c5749ab36c599c7b335311b35dc036169d3900830d1c"
+      },
+      "expiry": 1649457716000
+    },
+    "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.10 64-bit ('env': venv)",
+        "hash": "eaf6a96c48bafd15c3bbc731739764e49c769efc45ddfc71aa77ef3b0d29a08964e7de888a9ba1a3fe8fafbceda40be97ea1e0e9cceeb73f17bae7a38ea71eeb-48ad54ce4b8017d9ad465838b84b1e4f"
+      },
+      "expiry": 1649457716043
+    },
+    "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "eaf6a96c48bafd15c3bbc731739764e49c769efc45ddfc71aa77ef3b0d29a08964e7de888a9ba1a3fe8fafbceda40be97ea1e0e9cceeb73f17bae7a38ea71eeb",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.10-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 10,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.10-final"
+          },
+          "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+          "fileHash": "eaf6a96c48bafd15c3bbc731739764e49c769efc45ddfc71aa77ef3b0d29a08964e7de888a9ba1a3fe8fafbceda40be97ea1e0e9cceeb73f17bae7a38ea71eeb",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.10 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1649457716080
+    },
+    "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fcdb58346db27f7faa488b9fc5d2786aba4545f0a885fe7d5d4d967beaf6de49ac367c119912869c29f33248bc23e173eea019ebc0cc12179093b2d47b4d57f3"
+      },
+      "expiry": 1649457716357
+    },
+    "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.10 64-bit ('env': venv)",
+        "hash": "fcdb58346db27f7faa488b9fc5d2786aba4545f0a885fe7d5d4d967beaf6de49ac367c119912869c29f33248bc23e173eea019ebc0cc12179093b2d47b4d57f3-6dc97be07388cfe0b8310a3d5caccf5e"
+      },
+      "expiry": 1649457716628
+    },
+    "/Users/vasco/Projects/foobar/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/foobar/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/foobar/env",
+        "fileHash": "aae3725b88097bd77ba32147931c3ceb90b05ccd7e16454db266aedede0a15676b4477d0d1891159ae8e434e6f91912f321f955c30152e4f5ad20ba9e99e804a"
+      },
+      "expiry": 1651915208748
+    },
+    "/Users/vasco/Projects/foobar/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/foobar/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/foobar/env",
+        "fileHash": "15d0723112d4240bb78fab80be334d2b463cada88183fcc6c37d188f1646da883459e1f34fb70938bc52a0850fad725583d1a00b35cf545a56d23735fba61a5c"
+      },
+      "expiry": 1651772824176
+    },
+    "/Users/vasco/Projects/foobar/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/foobar/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/foobar/env",
+        "fileHash": "e9cafcd4a50ba48bbec1852216835d8352fb025be9937adf8778957dfdc624548945a9013f26dca208e245c80106239bcd1360a79f15db865173d518e0ef574c"
+      },
+      "expiry": 1651772824148
+    },
+    "/Users/vasco/Projects/foobar/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.12 64-bit ('env': venv)",
+        "hash": "e9cafcd4a50ba48bbec1852216835d8352fb025be9937adf8778957dfdc624548945a9013f26dca208e245c80106239bcd1360a79f15db865173d518e0ef574c-5afe6eea957775a1eea077bb3ae1a274"
+      },
+      "expiry": 1651772824410
+    },
+    "/Users/vasco/Projects/foobar/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "aae3725b88097bd77ba32147931c3ceb90b05ccd7e16454db266aedede0a15676b4477d0d1891159ae8e434e6f91912f321f955c30152e4f5ad20ba9e99e804a"
+      },
+      "expiry": 1651915208617
+    },
+    "/Users/vasco/Projects/foobar/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e9cafcd4a50ba48bbec1852216835d8352fb025be9937adf8778957dfdc624548945a9013f26dca208e245c80106239bcd1360a79f15db865173d518e0ef574c",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/vasco/Projects/foobar/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.12-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.12-final"
+          },
+          "sysPrefix": "/Users/vasco/Projects/foobar/env",
+          "fileHash": "e9cafcd4a50ba48bbec1852216835d8352fb025be9937adf8778957dfdc624548945a9013f26dca208e245c80106239bcd1360a79f15db865173d518e0ef574c",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.12 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1651772824493
+    },
+    "/Users/vasco/Projects/foobar/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.12 64-bit ('env': venv)",
+        "hash": "aae3725b88097bd77ba32147931c3ceb90b05ccd7e16454db266aedede0a15676b4477d0d1891159ae8e434e6f91912f321f955c30152e4f5ad20ba9e99e804a-f7b07c15c28ed37c9f8f6b573a2fc6c7"
+      },
+      "expiry": 1651772824569
+    },
+    "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "7690c2f09885a06530b8191a9516b349cf3437f2d33b9ea843b585817da80c5ea4cd7009c5feae741232707c2c2747c77e62580939d318fd89817c2279569614"
+      },
+      "expiry": 1658320125930
+    },
+    "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "19a4366c75e8006d664fabe0a5d203ab69f5d857f383433ef1f6c00107edf92301eaf488ac0bc1efdc762d58cec734418de5c5cf103cc7cff89d6ac8967236de"
+      },
+      "expiry": 1658320125813
+    },
+    "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f"
+      },
+      "expiry": 1658320125931
+    },
+    "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f"
+      },
+      "expiry": 1658320125990
+    },
+    "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.12 64-bit ('env': venv)",
+        "hash": "19a4366c75e8006d664fabe0a5d203ab69f5d857f383433ef1f6c00107edf92301eaf488ac0bc1efdc762d58cec734418de5c5cf103cc7cff89d6ac8967236de-1f288ddce225c73b1fe00541816a6c4e"
+      },
+      "expiry": 1658320126011
+    },
+    "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "19a4366c75e8006d664fabe0a5d203ab69f5d857f383433ef1f6c00107edf92301eaf488ac0bc1efdc762d58cec734418de5c5cf103cc7cff89d6ac8967236de",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.12-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.12-final"
+          },
+          "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+          "fileHash": "19a4366c75e8006d664fabe0a5d203ab69f5d857f383433ef1f6c00107edf92301eaf488ac0bc1efdc762d58cec734418de5c5cf103cc7cff89d6ac8967236de",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.12 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1658320126059
+    },
+    "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.12 64-bit ('env': venv)",
+        "hash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f-4d998a58a50fa82bcd9849956d616e6a"
+      },
+      "expiry": 1658320126097
+    }
+  },
+  "coc-python|/Users/vasco/Projects/VascoWeb/vascoWeb": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:f93314d99d9c17a25496b50b0095c49d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f93314d99d9c17a25496b50b0095c49d": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/Projects/VascoWeb/vascoWeb": {
+      "architecture": 3,
+      "path": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.2-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.2-final"
+      },
+      "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8",
+      "fileHash": "8065c151303091bd4f53530f66d8d351fa60dd8cfa7d6b8850e29658654c6e355571b2499e443aa87fe84b069ada366df902cdb7c76786fc6683b9c91045fcb0",
+      "type": "Unknown"
+    }
+  },
+  "coc-python|/private/var/folders/6y/71cwsbdj62b_ncyhhbx4r4q40000gp/T": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:cedc5b78a7d64cfe8133a524a5bfabde": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:cedc5b78a7d64cfe8133a524a5bfabde": [],
+    "autoSelectedWorkspacePythonInterpreter-/private/var/folders/6y/71cwsbdj62b_ncyhhbx4r4q40000gp/T": {
+      "architecture": 3,
+      "path": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.2-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.2-final"
+      },
+      "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8",
+      "fileHash": "8065c151303091bd4f53530f66d8d351fa60dd8cfa7d6b8850e29658654c6e355571b2499e443aa87fe84b069ada366df902cdb7c76786fc6683b9c91045fcb0",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/vasco/OneDrive - Delft University of Technology/Uni/CSE Year 2/Q1/CSE2215 Computer Graphics": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:8ff13b2fcaee10cf9759f410eff71e31": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:8ff13b2fcaee10cf9759f410eff71e31": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/OneDrive - Delft University of Technology/Uni/CSE Year 2/Q1/CSE2215 Computer Graphics": {
+      "architecture": 3,
+      "path": "/Users/vasco/opt/anaconda3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.8-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.8-final"
+      },
+      "sysPrefix": "/Users/vasco/opt/anaconda3",
+      "fileHash": "09f1f5b16d735a12fd9461446960498cf426fa7eed0e7421762ccd21f5e1d47f1544d843d256cd4095d7561981b3fbca4cb1d489ce856b86a8d1a4d01056f024",
+      "type": "Unknown",
+      "displayName": "Python 3.8.8 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-eslint|global": {
+    "eslintAlwaysAllowExecution": true
+  },
+  "coc-python|/Users/vasco/Projects/leetcode": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d9897953f8d0504855d2c633f905ad4c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d9897953f8d0504855d2c633f905ad4c": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/Projects/leetcode": {
+      "architecture": 3,
+      "path": "/Users/vasco/.conda/envs/python3/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.7-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.7-final"
+      },
+      "sysPrefix": "/Users/vasco/.conda/envs/python3",
+      "fileHash": "d9039cb843c85abdaa5d181c77e2d8ef5b0da937a57ca21f899d44f86bb11a3c0a66d15ce36fef99dfd1145e2bb4ea9cd8dd745d70b892fd288a366e95bee09a",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/Users/vasco/.conda/envs/python3",
+      "envName": "python3",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.7 64-bit ('python3': conda)"
+    }
+  },
+  "coc-python|/Users/vasco/OneDrive - Delft University of Technology/Uni/CSE Year 2/Q1/CSE2510 Machine Learning": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b8cf7f1016d62350e0e6ccdc66108eaf": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b8cf7f1016d62350e0e6ccdc66108eaf": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/OneDrive - Delft University of Technology/Uni/CSE Year 2/Q1/CSE2510 Machine Learning": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.8-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.8-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "27489b8009a2651585463afae7f3eb1299a98b8fd77707d1bde9d6cf35f2329cc43ad75b2a6bc8482a23b729d86e432f64e34e808556feb1ee041c1fa720300f",
+      "type": "Unknown",
+      "displayName": "Python 3.9.8 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/vasco/Projects/selenium": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:8d3d78c609555d6714cadab002e8e02d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:8d3d78c609555d6714cadab002e8e02d": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/selenium/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.8-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.8-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/selenium/env",
+        "fileHash": "60a2bd481b918fe91cce9429e81456653a23e817beb9162aa18c74b8057a63a2e207536a0f51f21459d9a5f4fae2decd001da6027a1bfc5c5a028224e25ede7e",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/selenium/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.8-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.8-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/selenium/env",
+        "fileHash": "76ea7addc2c2d60f35310d6023f291cb1f3265f78b26cd0f77a2a5e69eed286be48c630532f88b0933de1edc6f843dd1260ee6f3f0506b61d8ad83bae6ff8cb8",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/selenium/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.8-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.8-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/selenium/env",
+        "fileHash": "1b6f281b7d766d854c87b34d134ec3ff1ee8049ff44516a54a414d53eb3befaf52044435b8ae8a8d8306109bfacb0d686ffd2c1f14921692c28b18ba0e731ab8",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/Users/vasco/Projects/selenium/env/bin/python3.9",
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/Projects/selenium": {
+      "architecture": 3,
+      "path": "/Users/vasco/Projects/selenium/env/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.8-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.8-final"
+      },
+      "sysPrefix": "/Users/vasco/Projects/selenium/env",
+      "fileHash": "1b6f281b7d766d854c87b34d134ec3ff1ee8049ff44516a54a414d53eb3befaf52044435b8ae8a8d8306109bfacb0d686ffd2c1f14921692c28b18ba0e731ab8",
+      "envName": "env",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/selenium/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.8-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.8-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/selenium/env",
+        "fileHash": "60a2bd481b918fe91cce9429e81456653a23e817beb9162aa18c74b8057a63a2e207536a0f51f21459d9a5f4fae2decd001da6027a1bfc5c5a028224e25ede7e",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/selenium/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.8-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.8-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/selenium/env",
+        "fileHash": "76ea7addc2c2d60f35310d6023f291cb1f3265f78b26cd0f77a2a5e69eed286be48c630532f88b0933de1edc6f843dd1260ee6f3f0506b61d8ad83bae6ff8cb8",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/selenium/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.8-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.8-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/selenium/env",
+        "fileHash": "1b6f281b7d766d854c87b34d134ec3ff1ee8049ff44516a54a414d53eb3befaf52044435b8ae8a8d8306109bfacb0d686ffd2c1f14921692c28b18ba0e731ab8",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/Users/vasco/Projects/sono/PodcastProject/backend": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:a05fbb43a0cddf40ca63f882187eb2d4": [],
+    "SelectedPythonPath": "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a05fbb43a0cddf40ca63f882187eb2d4": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/PodcastProject/backend/env",
+        "fileHash": "9b7c95df9105f4928fe88803ebb3227514a86a8084cdeefe7096846112a033b45123f871bbbe150d91fb1fcf68f6d2e2f71566b195f15353cd375d07b9b54fed",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/PodcastProject/backend/env",
+        "fileHash": "fb9e54f586e0214a5819c4c73df4b27db5bcff99c287c48bc26a39d32bbe719740b7d329769c2ab5d77b42e6a90c48978766bb864640595a4a937a420ddf510d",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/Projects/sono/PodcastProject/backend": {
+      "architecture": 3,
+      "path": "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.9-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.9-final"
+      },
+      "sysPrefix": "/Users/vasco/Projects/sono/PodcastProject/backend/env",
+      "fileHash": "fb9e54f586e0214a5819c4c73df4b27db5bcff99c287c48bc26a39d32bbe719740b7d329769c2ab5d77b42e6a90c48978766bb864640595a4a937a420ddf510d",
+      "envName": "env",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/PodcastProject/backend/env",
+        "fileHash": "9b7c95df9105f4928fe88803ebb3227514a86a8084cdeefe7096846112a033b45123f871bbbe150d91fb1fcf68f6d2e2f71566b195f15353cd375d07b9b54fed",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/PodcastProject/backend/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.9-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 9,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.9-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/PodcastProject/backend/env",
+        "fileHash": "fb9e54f586e0214a5819c4c73df4b27db5bcff99c287c48bc26a39d32bbe719740b7d329769c2ab5d77b42e6a90c48978766bb864640595a4a937a420ddf510d",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/Users/vasco/Projects/sono/Sono-Backend": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:2653638e935e426252dd9c6b99d96935": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:2653638e935e426252dd9c6b99d96935": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+        "fileHash": "eaf6a96c48bafd15c3bbc731739764e49c769efc45ddfc71aa77ef3b0d29a08964e7de888a9ba1a3fe8fafbceda40be97ea1e0e9cceeb73f17bae7a38ea71eeb",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+        "fileHash": "d154523f4d85c1d43122116cdfc236af359ec69e8ad404832e2b467a97c49d28cde7fc317110b6b05986c5749ab36c599c7b335311b35dc036169d3900830d1c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+        "fileHash": "fcdb58346db27f7faa488b9fc5d2786aba4545f0a885fe7d5d4d967beaf6de49ac367c119912869c29f33248bc23e173eea019ebc0cc12179093b2d47b4d57f3",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3.9",
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/Projects/sono/Sono-Backend": {
+      "architecture": 3,
+      "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.10-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 10,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.10-final"
+      },
+      "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+      "fileHash": "fcdb58346db27f7faa488b9fc5d2786aba4545f0a885fe7d5d4d967beaf6de49ac367c119912869c29f33248bc23e173eea019ebc0cc12179093b2d47b4d57f3",
+      "envName": "env",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+        "fileHash": "eaf6a96c48bafd15c3bbc731739764e49c769efc45ddfc71aa77ef3b0d29a08964e7de888a9ba1a3fe8fafbceda40be97ea1e0e9cceeb73f17bae7a38ea71eeb",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+        "fileHash": "d154523f4d85c1d43122116cdfc236af359ec69e8ad404832e2b467a97c49d28cde7fc317110b6b05986c5749ab36c599c7b335311b35dc036169d3900830d1c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/sono/Sono-Backend/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/sono/Sono-Backend/env",
+        "fileHash": "fcdb58346db27f7faa488b9fc5d2786aba4545f0a885fe7d5d4d967beaf6de49ac367c119912869c29f33248bc23e173eea019ebc0cc12179093b2d47b4d57f3",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/Users/vasco/Projects/PodcastProject/backend": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c23a089dd33ef40c132245a79bd22bae": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c23a089dd33ef40c132245a79bd22bae": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/Projects/PodcastProject/backend": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.10-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 10,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.10-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "6f78cd76cf17eb367791f0c5a4f1012be04fe1f4290c747b2d984806fc4db930572d328723e1221b950b73e3804c0fbfef69f02ca8ff04fd16f2d3c79b39afeb",
+      "type": "Unknown",
+      "displayName": "Python 3.9.10 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/vasco/Projects/foobar": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:fa1c203240ba3e0f9d6da3d4a6a5f94a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fa1c203240ba3e0f9d6da3d4a6a5f94a": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/foobar/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/foobar/env",
+        "fileHash": "e9cafcd4a50ba48bbec1852216835d8352fb025be9937adf8778957dfdc624548945a9013f26dca208e245c80106239bcd1360a79f15db865173d518e0ef574c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/foobar/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/foobar/env",
+        "fileHash": "aae3725b88097bd77ba32147931c3ceb90b05ccd7e16454db266aedede0a15676b4477d0d1891159ae8e434e6f91912f321f955c30152e4f5ad20ba9e99e804a",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/foobar/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/foobar/env",
+        "fileHash": "15d0723112d4240bb78fab80be334d2b463cada88183fcc6c37d188f1646da883459e1f34fb70938bc52a0850fad725583d1a00b35cf545a56d23735fba61a5c",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/Projects/foobar": {
+      "architecture": 3,
+      "path": "/Users/vasco/Projects/foobar/env/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/Users/vasco/Projects/foobar/env",
+      "fileHash": "15d0723112d4240bb78fab80be334d2b463cada88183fcc6c37d188f1646da883459e1f34fb70938bc52a0850fad725583d1a00b35cf545a56d23735fba61a5c",
+      "envName": "env",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/foobar/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/foobar/env",
+        "fileHash": "e9cafcd4a50ba48bbec1852216835d8352fb025be9937adf8778957dfdc624548945a9013f26dca208e245c80106239bcd1360a79f15db865173d518e0ef574c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/foobar/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/foobar/env",
+        "fileHash": "aae3725b88097bd77ba32147931c3ceb90b05ccd7e16454db266aedede0a15676b4477d0d1891159ae8e434e6f91912f321f955c30152e4f5ad20ba9e99e804a",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/foobar/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/foobar/env",
+        "fileHash": "15d0723112d4240bb78fab80be334d2b463cada88183fcc6c37d188f1646da883459e1f34fb70938bc52a0850fad725583d1a00b35cf545a56d23735fba61a5c",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/Users/vasco/Projects/foobar/env/bin/python3"
+  },
+  "coc-python|/Users/vasco/Downloads/LORA_PI_RX": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:5cb7a891d01c532ea193d0ad6ba5a9df": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:5cb7a891d01c532ea193d0ad6ba5a9df": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/Downloads/LORA_PI_RX": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "b7afd9cf194eb9549bd2ab38c6ff286341fe3e2e43a93347aae24a1926f9b1711dec6f05982c589fd74d2e467ee2ea73d4de9ccf2f0c3f45a8c2c577914781d5",
+      "type": "Unknown",
+      "displayName": "Python 3.9.12 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/vasco/Projects/github/python-telegram-bot": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b39be03aef73a1ec88c74d0a0805e802": [],
+    "SelectedPythonPath": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b39be03aef73a1ec88c74d0a0805e802": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "19a4366c75e8006d664fabe0a5d203ab69f5d857f383433ef1f6c00107edf92301eaf488ac0bc1efdc762d58cec734418de5c5cf103cc7cff89d6ac8967236de",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "7690c2f09885a06530b8191a9516b349cf3437f2d33b9ea843b585817da80c5ea4cd7009c5feae741232707c2c2747c77e62580939d318fd89817c2279569614",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/Users/vasco/Projects/github/python-telegram-bot": {
+      "architecture": 3,
+      "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.12-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.12-final"
+      },
+      "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+      "fileHash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "19a4366c75e8006d664fabe0a5d203ab69f5d857f383433ef1f6c00107edf92301eaf488ac0bc1efdc762d58cec734418de5c5cf103cc7cff89d6ac8967236de",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "2f09b40626513d68e405168c264c00933f2ad3d53c64469d8b863bb253ad35c3914187a406ce32229afac37217bb00739625dafdf73d7bb1576ea44ea0fe9a2f",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/vasco/Projects/github/python-telegram-bot/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.12-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.12-final"
+        },
+        "sysPrefix": "/Users/vasco/Projects/github/python-telegram-bot/env",
+        "fileHash": "7690c2f09885a06530b8191a9516b349cf3437f2d33b9ea843b585817da80c5ea4cd7009c5feae741232707c2c2747c77e62580939d318fd89817c2279569614",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  }
+}
