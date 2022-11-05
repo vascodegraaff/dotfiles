@@ -39,6 +39,7 @@ set smartindent
 set tabstop=4 shiftwidth=4 expandtab
 set gdefault            " Use 'g' flag by default with :s/foo/bar/.
 set magic               " Use 'magic' patterns (extended regular expressions).
+set mouse=a             " Enable mouse usage.
 
 set number
 
@@ -64,7 +65,7 @@ nmap <Leader>t <C-\><C-n><C-w><C-v> :terminal <CR> call feedkeys('i')
 let mapleader= '\'
 let maplocalleader='\'
 
-let g:python_host_prog="/usr/local/bin/python2.7"
+let g:python_host_prog="/opt/homebrew/Cellar/python@3.10/3.10.6_1/Frameworks/Python.framework/Versions/3.10/lib/python3.10"
 
 let g:session_autosave = 'yes'
 let g:session_autoload = 'yes'
@@ -121,6 +122,8 @@ Plug 'nvim-telescope/telescope.nvim'
 " Syntax hightlighting
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
+"
+Plug 'vim-test/vim-test'
 
 call plug#end()
 
@@ -141,7 +144,10 @@ nnoremap <C-n> :bn<CR>
 nnoremap <C-d> :bd<CR>
 nnoremap <Leader>b :ls<CR>:b<Space>
 
-"
+" Python config
+let g:python3_host_prog = '/opt/homebrew/bin/python3'
+
+
 " coc config
 let g:coc_global_extensions = [
   \ 'coc-snippets',
@@ -187,6 +193,7 @@ endif
 
 " nerdtree config
 nnoremap <Space>n :NERDTreeToggle<CR>
+let g:NERDTreeWinSize=50
 
 " airline settings
 let g:airline#extensions#tabline#enabled = 2
@@ -244,9 +251,17 @@ cnoreabbrev <expr> q getcmdtype() == ":" && (getcmdline() == 'q' && len(filter(r
 " go to definition
 nmap <leader>gd <Plug>(coc-definition)
 nmap <leader>gr <Plug>(coc-references)
-nnoremap <C-p> :GFiles<CR>
 
-inoremap <silent><expr> <cr> pumvisible() ? coc#_select_confirm() : 
+" Telescope find files and find functions
+nnoremap <C-p> :GitFiles<CR>
+" nnoremap <C-p> :Telescope find_files<CR>
+nnoremap <C-f> :Telescope live_grep<CR>
+
+" Use system clipboard
+"
+set clipboard=unnamedplus
+
+inoremap <silent><expr> <cr> pumvisible() ? coc#_select_confirm() :
                                            \"\<C-g>u\<CR>\<c-r>=coc#on_enter()\<CR>"
 
 " NVIM TODO list
