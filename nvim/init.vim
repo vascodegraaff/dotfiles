@@ -36,7 +36,7 @@ set ignorecase                  " Search case insensitive...
 set smartcase                   " ... but not when search pattern contains upper case characters
 set autoindent
 set smartindent
-set tabstop=4 shiftwidth=4 expandtab
+" set tabstop=4 shiftwidth=4 expandtab
 set gdefault            " Use 'g' flag by default with :s/foo/bar/.
 set magic               " Use 'magic' patterns (extended regular expressions).
 set mouse=a             " Enable mouse usage.
