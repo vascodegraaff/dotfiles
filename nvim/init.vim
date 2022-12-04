@@ -36,7 +36,7 @@ set ignorecase                  " Search case insensitive...
 set smartcase                   " ... but not when search pattern contains upper case characters
 set autoindent
 set smartindent
-" set tabstop=4 shiftwidth=4 expandtab
+set tabstop=4 shiftwidth=4 expandtab
 set gdefault            " Use 'g' flag by default with :s/foo/bar/.
 set magic               " Use 'magic' patterns (extended regular expressions).
 set mouse=a             " Enable mouse usage.
@@ -58,7 +58,7 @@ endif
 nmap <Leader>s :%s//g<Left><Left>
 
 " create new terminal and split when using leader t
-nmap <Leader>t <C-\><C-n><C-w><C-v> :terminal <CR> call feedkeys('i')
+" nmap <Leader>t <C-\><C-n><C-w><C-v> :terminal <CR> call feedkeys('i')
 
 
 " Leader key is like a command prefix.
@@ -122,8 +122,13 @@ Plug 'nvim-telescope/telescope.nvim'
 " Syntax hightlighting
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
-"
+" Toggle temr
+Plug 'akinsho/toggleterm.nvim', {'tag' : '*'}
+
+Plug 'tpope/vim-commentary'
+
 Plug 'vim-test/vim-test'
+
 
 call plug#end()
 
@@ -142,7 +147,6 @@ augroup END
 nnoremap <C-b> :bp<CR>
 nnoremap <C-n> :bn<CR>
 nnoremap <C-d> :bd<CR>
-nnoremap <Leader>b :ls<CR>:b<Space>
 
 " Python config
 let g:python3_host_prog = '/opt/homebrew/bin/python3'
@@ -159,7 +163,8 @@ let g:coc_global_extensions = [
   \ 'coc-pyright',
   \ 'coc-java',
   \ 'coc-phpls',
-  \ 'coc-go'
+  \ 'coc-go',
+  \ 'coc-rust-analyzer'
   \ ]
 " from readme
 " if hidden is not set, TextEdit might fail.
@@ -168,6 +173,19 @@ set updatetime=300
 
 "vim workspace"
 let g:workspace_autosave_always = 1
+
+
+" Comment
+nnoremap <silent><nowait> <leader>c :Commentary<CR>
+
+lua << EOF
+require'toggleterm'.setup{
+  size = 75,
+  open_mapping = '<C-t>',
+  direction = 'vertical',
+  shade_terminals = true
+}
+EOF
 
 "deoplete config
 let g:deoplete#enable_at_startup = 1
@@ -410,11 +428,11 @@ set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
 " Show all diagnostics.
 nnoremap <silent><nowait> <space>a  :<C-u>CocList diagnostics<cr>
 " Manage extensions.
-nnoremap <silent><nowait> <space>e  :<C-u>CocList extensions<cr>
+" nnoremap <silent><nowait> <space>e  :<C-u>CocList extensions<cr>
 " Show commands.
-nnoremap <silent><nowait> <space>c  :<C-u>CocList commands<cr>
+" nnoremap <silent><nowait> <space>c  :<C-u>CocList commands<cr>
 " Find symbol of current document.
-nnoremap <silent><nowait> <space>o  :<C-u>CocList outline<cr>
+" nnoremap <silent><nowait> <space>o  :<C-u>CocList outline<cr>
 " Search workspace symbols.
 nnoremap <silent><nowait> <space>s  :<C-u>CocList -I symbols<cr>
 " Do default action for next item.
